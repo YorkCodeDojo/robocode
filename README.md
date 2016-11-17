@@ -7,10 +7,10 @@ Robocode runs on the Java Runtime but bots can be developed in Java or any langu
 
 ## Battles (16 Nov 2016)
 ### Battle 1
-[![Battle 1 @ York Code Dojo](http://img.youtube.com/vi/9uB_Wre59AU/0.jpg)](http://www.youtube.com/watch?v=9uB_Wre59AU)
+[![Battle 1 @ York Code Dojo](https://j.gifs.com/y8M8q7.gif)](http://www.youtube.com/watch?v=9uB_Wre59AU)
 
 ### Battle 2
-[![Battle 2 @ York Code Dojo](http://img.youtube.com/vi/57KyW8f_Vzk/0.jpg)](http://www.youtube.com/watch?v=57KyW8f_Vzk)
+[![Battle 2 @ York Code Dojo](https://j.gifs.com/GZgZ17.gif)](http://www.youtube.com/watch?v=57KyW8f_Vzk)
 
 ## Get started
 - Download Java http://java.com/en/download
