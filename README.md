@@ -15,8 +15,8 @@ Robocode runs on the Java Runtime but bots can be developed in Java or any langu
 ## Get started
 - Download Java http://java.com/en/download
 - Download Robocode - http://robocode.sourceforge.net/download
- - [robocode-1.9.2.5-setup.jar](https://sourceforge.net/projects/robocode/files/robocode/1.9.2.5/robocode-1.9.2.5-setup.jar/download)
- - [robocode.dotnet-1.9.2.5-setup.jar](https://sourceforge.net/projects/robocode/files/robocode/1.9.2.5/robocode.dotnet-1.9.2.5-setup.jar/download)
+ - [robocode-1.9.2.6-setup.jar](https://sourceforge.net/projects/robocode/files/robocode/1.9.2.6/robocode-1.9.2.6-setup.jar/download)
+ - [robocode.dotnet-1.9.2.6-setup.jar](https://sourceforge.net/projects/robocode/files/robocode/1.9.2.6/robocode.dotnet-1.9.2.6-setup.jar/download)
 
 ## Write a bot
 
